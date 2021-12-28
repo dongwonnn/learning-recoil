@@ -15,7 +15,7 @@ const CharacterCounter = () => {
             <div>
                 <input type="text" value={text} onChange={onChange} />
                 <br />
-                Echo: {text}
+                Echo: {text} 22로 바꿀 예정
             </div>
             <>Character Count: {count}</>
         </div>
